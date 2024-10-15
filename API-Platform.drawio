@@ -1,33 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bhGqi4Ox7y2Km3dsuEUU">
     <mxGraphModel dx="947" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7e_-33MhaOKomPgfkAH1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="190" width="580" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7e_-33MhaOKomPgfkAH1-2" target="7e_-33MhaOKomPgfkAH1-3">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7e_-33MhaOKomPgfkAH1-2" target="7e_-33MhaOKomPgfkAH1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-2" value="后端管理服务（提供者）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-2" value="后端管理服务（提供者）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7e_-33MhaOKomPgfkAH1-3" target="7e_-33MhaOKomPgfkAH1-4">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7e_-33MhaOKomPgfkAH1-3" target="7e_-33MhaOKomPgfkAH1-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;SDK&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;axios&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;SDK&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;axios&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7e_-33MhaOKomPgfkAH1-4" target="7e_-33MhaOKomPgfkAH1-15">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7e_-33MhaOKomPgfkAH1-4" target="7e_-33MhaOKomPgfkAH1-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-4" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;网关&lt;/b&gt;&lt;/font&gt;&lt;div&gt;转发请求&lt;/div&gt;&lt;div&gt;验证请求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-4" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;网关&lt;/b&gt;&lt;/font&gt;&lt;div&gt;转发请求&lt;/div&gt;&lt;div&gt;验证请求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7e_-33MhaOKomPgfkAH1-5" target="7e_-33MhaOKomPgfkAH1-1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7e_-33MhaOKomPgfkAH1-5" target="7e_-33MhaOKomPgfkAH1-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="375" y="170" />
@@ -35,22 +35,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-5" value="用户调用 invoke" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-5" value="用户调用 invoke" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="414" y="50" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-9" value="通过 SDK 客户端，去请求网关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-9" value="通过 SDK 客户端，去请求网关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-15" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;接口&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-15" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;接口&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-17" value="每个接口，都要有单独的处理函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-17" value="每个接口，都要有单独的处理函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="355" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-18" value="1. 注册 client sdk，在调用 client 前，获取当前用户的aksk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-18" value="1. 注册 client sdk，在调用 client 前，获取当前用户的aksk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="200" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7e_-33MhaOKomPgfkAH1-19" value="获取 aksk，API 签名认证，给到网关做验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7e_-33MhaOKomPgfkAH1-19" value="获取 aksk，API 签名认证，给到网关做验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="390" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
