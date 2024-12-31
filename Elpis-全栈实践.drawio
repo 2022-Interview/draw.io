@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="3nNjjE9kXgALTBdIWRDf">
-    <mxGraphModel>
+    <mxGraphModel dx="987" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77C_TY2AYt__-R3eiL3v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-2" target="77C_TY2AYt__-R3eiL3v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;磁盘文件&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;app 目录&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-3" target="77C_TY2AYt__-R3eiL3v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;解析引擎&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;elpis-core&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;运行时&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;内存&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-8" target="77C_TY2AYt__-R3eiL3v-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-8" value="业务文件" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-9" target="77C_TY2AYt__-R3eiL3v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-9" value="解析编译" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-11" target="77C_TY2AYt__-R3eiL3v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-11" value="模块分包" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-13" target="77C_TY2AYt__-R3eiL3v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-13" value="压缩优化" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="730" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-15" target="77C_TY2AYt__-R3eiL3v-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-15" value="产物文件" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="930" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77C_TY2AYt__-R3eiL3v-17" target="77C_TY2AYt__-R3eiL3v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-17" value="Koa" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="930" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-19" value="输出页面" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="930" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77C_TY2AYt__-R3eiL3v-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;解析引擎" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=none;fontStyle=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="570" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
