@@ -1,9 +1,68 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="xyvXMYqwdG14dfgmlpNZ">
-    <mxGraphModel>
+    <mxGraphModel dx="955" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="620" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="470" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-4" value="data-effect=‘copy’" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-5" value="data-allow=“copy”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-8" value="data-effect=‘copy’" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-14" value="data-allow=“move”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-17" value="data-effect=“move”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.598;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsNl0_AfK2gvQJ6n3LSR-10" target="ZsNl0_AfK2gvQJ6n3LSR-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="sourcePoint" />
+            <mxPoint x="460" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsNl0_AfK2gvQJ6n3LSR-19" value="移动进来的元素，data-effect 会被修改为 move" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ZsNl0_AfK2gvQJ6n3LSR-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
